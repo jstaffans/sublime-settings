@@ -1,0 +1,26 @@
+{
+	"installed_packages":
+	[
+		"ClojureDocSearch",
+		"Emmet",
+		"Emmet Css Snippets",
+		"Enhanced Clojure",
+		"Indent XML",
+		"Jinja2",
+		"LESS",
+		"lispindent",
+		"LoremIpsum",
+		"Package Control",
+		"Puppet",
+		"Sass",
+		"SideBarEnhancements",
+		"SmartMarkdown",
+		"SublimeFormatSQL",
+		"SublimeREPL",
+		"VintageEx"
+	],
+	"repositories":
+	[
+		"https://github.com/freewizard/SublimeFormatSQL"
+	]
+}
